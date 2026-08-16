@@ -15,3 +15,7 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Datasets (keep local; do not push)
+train/
+Test_NoisyLR/
